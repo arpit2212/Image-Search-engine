@@ -1,6 +1,6 @@
 # Image Search Engine
 
-[demo link](https://image-search-engine-12.netlify.app/)
+# [demo link](https://image-search-engine-12.netlify.app/)
 
 ![Alt Text](https://github.com/arpit2212/Image-Search-engine/blob/main/Screenshot%202023-12-24%20224609.png)
 
